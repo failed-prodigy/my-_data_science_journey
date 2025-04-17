@@ -1,4 +1,4 @@
-# my-_data_science_journey
+# my_data_science_journey
 
  Hi, I'm Lakshman! This repo documents my journey to upskill in Python, SQL, Tableau, Machine Learning, and GCP as I prepare for Data Science and Analyst roles.  
  
