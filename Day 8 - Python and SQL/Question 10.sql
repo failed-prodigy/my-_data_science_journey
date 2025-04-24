@@ -1,0 +1,1 @@
+select film_id , length , replacement_cost from film
